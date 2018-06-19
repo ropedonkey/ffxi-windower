@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <autoload>
+    <addon>barfiller</addon>
+    <addon>timestamp</addon>
+    <addon>distance</addon>
+    <addon>TParty</addon>
+    <addon>translate</addon>
+    <addon>TreasurePool</addon>
+    <addon>Treasury</addon>
+    <addon>Omen</addon>
+    <addon>targetinfo</addon>
+    <addon>boxdestroyer</addon>
+    <addon>Debuffed</addon>
+    <addon>dynamishelper</addon>
+    <addon>scoreboard</addon>
+    <addon>Trusts</addon>
+    <addon>update</addon>
+    <addon>autojoin</addon>
+    <addon>battlemod</addon>
+    <addon>ChatLink</addon>
+    <addon>ConsoleBG</addon>
+    <addon>instaLS</addon>
+    <addon>Pouches</addon>
+    <addon>shortcuts</addon>
+    <addon>Silence</addon>
+    <addon>SpellBook</addon>
+    <addon>SpellCheck</addon>
+    <addon>Tab</addon>
+    <addon>thtracker</addon>
+    <plugin>Tickle</plugin>
+    <plugin>StatusTimer</plugin>
+    <plugin>Timers</plugin>
+    <plugin>Config</plugin>
+    <plugin>FFXIDB</plugin>
+    <plugin>DelayMeNot</plugin>
+    <plugin>LightLuggage</plugin>
+  </autoload>
+  <profile name="">
+    <consolekey>Insert</consolekey>
+    <width>1920</width>
+    <height>1080</height>
+    <mipmaplevel>1</mipmaplevel>
+    <uiscale>1</uiscale>
+    <supersampling>2</supersampling>
+    <bumpmapping>true</bumpmapping>
+  </profile>
+</settings>
